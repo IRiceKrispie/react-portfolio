@@ -36,7 +36,7 @@ export default function Projects() {
 
       <div className='card 4'>
         <div className='card_image'>
-          <a href="https://github.com/IRiceKrispie/Password-Generator" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/PbMdZc61lcD47mZRJo/giphy.gif" alt="Project4"/></a>
+          <a href="https://iricekrispie.github.io/challenge-3/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/PbMdZc61lcD47mZRJo/giphy.gif" alt="Project4"/></a>
         </div>
         <div className='card_title title-black'>
           <p>Password Generator</p>
@@ -45,10 +45,10 @@ export default function Projects() {
 
       <div className='card 5'>
         <div className='card_image'>
-          <a href="https://peaceful-refuge-48711.herokuapp.com/" target="_blank" rel="noreferrer"><img src={blogPic} alt="blogOnComputer"/></a>
+          <a href="https://iricekrispie.github.io/challenge-5/" target="_blank" rel="noreferrer"><img src={blogPic} alt="blogOnComputer"/></a>
         </div>
         <div className='card_title title-black'>
-          <p>Blog</p>
+          <p>Scheduler</p>
         </div>
       </div>
 

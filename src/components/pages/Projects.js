@@ -65,7 +65,7 @@ export default function Projects() {
         <div className='card_image'>
           <a href="https://operation-wellness-rsb.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif" alt="project7"/></a>
         </div>
-        <div className='card_title title-black'>
+        <div className='card_title title-white'>
           <p>Operation Wellness</p>
         </div>
       </div>

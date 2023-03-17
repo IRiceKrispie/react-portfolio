@@ -61,14 +61,14 @@ export default function Projects() {
         </div>
       </div>
 
-      <div className='card 7'>
+      {/* <div className='card 7'>
         <div className='card_image'>
           <a href="https://operation-wellness-rsb.herokuapp.com/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/13twUEuUnCrEju/giphy.gif" alt="project7"/></a>
         </div>
         <div className='card_title title-white'>
           <p>Operation Wellness</p>
         </div>
-      </div>
+      </div> */}
 
     </div>
   );
